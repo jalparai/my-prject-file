@@ -1,0 +1,102 @@
+.match_product {
+    margin-top: 60px;
+}
+
+.match_product p {
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.hugin_integration {
+    width: 100%;
+    border-bottom: 1px solid #d9d9d9;
+    padding-bottom: 22px;
+}
+
+.hugin_integration .department_code {
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+}
+
+.hugin_integration .department_code .category {
+    top: 0px;
+    width: 147px;
+}
+
+.hugin_integration .department_code h4 {
+    font-size: 19px;
+    margin-right: 12px;
+    margin-bottom: 0;
+}
+
+.hugin_integration_search {
+    width: 200px;
+    fill: #FFF;
+    filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25));
+}
+
+.hugin_integration .device_btn {
+    position: absolute;
+    right: 82px;
+    fill: rgba(227, 25, 39, 0.50) !important;
+    filter: drop-shadow(0px 0px 4px rgba(0, 0, 0, 0.25)) !important;
+    background-color: #fe7f7f;
+    border: none;
+    color: #FFF;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 14px 20px;
+    border-radius: 10px;
+
+}
+
+.hugin_product_card {
+    background-color: #fe7f7f;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.hugin_product_card h2 {
+    font-size: 22px;
+    color: #FFF;
+    padding: 20px;
+}
+.hugin_product_card h3 {
+    font-size: 22px;
+    color: #FFF;
+    padding: 20px;
+    padding-top: 10px;
+}
+.hugin_product_card h5 {
+    font-size: 22px;
+    color: #FFF;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Integrationflex{
+    display: flex;
+    font-size: 12px;
+    color: #FFF;
+    text-align: center;
+    color: rgb(30, 30, 30);
+    justify-content: space-around;
+}
+.Integrationflex span{
+    display: flex;
+}
+.Integrationflex div{
+    display: flex;
+    flex-direction: column;
+}
